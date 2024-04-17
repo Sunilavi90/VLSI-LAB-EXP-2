@@ -222,6 +222,7 @@ end
 end
 
 endmodule
+
 OUTPUT WAVEFORM
 
 Encoder
